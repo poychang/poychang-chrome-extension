@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "PoyChang Chrome Extension",
+  "name": "PoyChang Assistant",
   "author": "Poy Chang",
   "homepage_url": "https://poychang.github.io/",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "PoyChang's Google Chrome extension",
   "icons": {
     "16": "assets/icon/icon16.png",
