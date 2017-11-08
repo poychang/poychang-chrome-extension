@@ -1,6 +1,8 @@
 {
   "manifest_version": 2,
   "name": "PoyChang Chrome Extension",
+  "author": "Poy Chang",
+  "homepage_url": "https://poychang.github.io/",
   "version": "1.0",
   "description": "PoyChang's Google Chrome extension",
   "icons": {
@@ -16,12 +18,11 @@
     },
     "default_popup": "index.html"
   },
-  "author": "Poy Chang",
-  "homepage_url": "https://poychang.github.io/",
-  "permissions": ["activeTab", "tabs"],
-  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "background": {
     "page": "index.html",
+    "scripts": [],
     "persistent": false
-  }
+  },
+  "permissions": ["activeTab", "tabs"],
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }
