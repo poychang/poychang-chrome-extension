@@ -8,6 +8,7 @@
     "outDir": "dist",
     "assets": [
       "assets",
+      "_locales",
       "manifest.json",
       "favicon.png"
     ],

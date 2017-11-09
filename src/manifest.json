@@ -1,10 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "PoyChang Assistant",
+  "name": "__MSG_extName__",
   "author": "Poy Chang",
   "homepage_url": "https://poychang.github.io/",
   "version": "1.0.1",
   "description": "PoyChang's Google Chrome extension",
+  "default_locale": "en",
   "icons": {
     "16": "assets/icon/icon16.png",
     "48": "assets/icon/icon48.png",
